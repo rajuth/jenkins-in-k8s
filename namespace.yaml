@@ -1,4 +1,4 @@
-apiVersion: v1
-kind: Namespace
+apiVersion: v1 #https://www.jenkins.io/doc/book/installing/kubernetes/
+kind: Namespace  # git link https://github.com/scriptcamp/kubernetes-jenkins
 metadata:
   name: devops-tools

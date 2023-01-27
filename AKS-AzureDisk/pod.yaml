@@ -3,6 +3,8 @@ apiVersion: v1
 metadata:
   name: newpod1
 spec:
+# it showing error but still working
+#git link
   containers:
   - name: newpod
     image: nginx:latest
